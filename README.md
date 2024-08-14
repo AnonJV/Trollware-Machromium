@@ -1,6 +1,6 @@
-# Virus disfarçado de Microsoft Edge
+# Virus Disfarçado
 
-Esse executável foi criado apenas para brincar com seus amigos sem danificar o dispositivo dos mesmos. Serve para tirá-los do sério e sentirem o desespero mas que pode facilmente ser desativado. Use com sabedoria e não me responsabilizo pelas consequências do uso. 
+Esses executáveis foram criados com o único intuito de brincar e trolar seus amigos sem danificar os dispositivos dos mesmos. Serve para tirá-los do sério, causar vergonha e desespero e só entenderão o porque disso ao executarem. Reforço que não trata-se de nenhum malware que roube dados ou danifique a máquina, é apenas um software simples que garanto que resultará em muitas gargalhadas. 
 
 
 ## Preparação
@@ -12,4 +12,4 @@ Esse executável foi criado apenas para brincar com seus amigos sem danificar o 
 5. Execute ao menos uma vez para garantir que Windows Defender não exibirá uma mensagem
 6. Pressione CTRL+D, abra o gerenciador de tarefas e finalize a tarefa para interromper o funcionamento
 
-**ATENÇÃO:** Depois que executado a primeira vez, caso apareça a mensagem de segurança do Windows, insista em executar e não aparecerá posteriormente. Lembre-se, funciona apenas em Windows. 
+**ATENÇÃO:** Depois que executado a primeira vez, caso apareça a mensagem de segurança do Windows, insista em executar e não aparecerá posteriormente. Lembre-se, funciona apenas em Windows e não me responsabilizo pelo uso indevido
