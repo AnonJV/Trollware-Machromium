@@ -2,6 +2,7 @@
 
 Esses executáveis foram criados com o único intuito de brincar e trolar seus amigos sem danificar os dispositivos dos mesmos. Serve para tirá-los do sério, causar vergonha e desespero e só entenderão o porque disso ao executarem. Reforço que não trata-se de nenhum malware que roube dados ou danifique a máquina, é apenas um software simples que garanto que resultará em muitas gargalhadas. 
 
+![Rato mal segurando o Chrome](https://github.com/AnonJV/Virus-Edge/blob/main/Rato_do_Chrome%20(1).png)
 
 ## Preparação
 
