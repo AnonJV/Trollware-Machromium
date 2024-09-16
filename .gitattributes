@@ -1,4 +1,0 @@
-*.exe filter=lfs diff=lfs merge=lfs -text
-Microsoft[[:space:]]Edge.exe filter=lfs diff=lfs merge=lfs -text
-Google[[:space:]]Chrome.exe filter=lfs diff=lfs merge=lfs -text
-Explorador[[:space:]]de[[:space:]]Arquivos.exe filter=lfs diff=lfs merge=lfs -text
