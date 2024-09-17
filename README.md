@@ -1,4 +1,4 @@
-<img src="" width="1500" alt="Banner Rato"/> 
+<img src="https://github.com/AnonJV/Trollware-Machromium/blob/main/Banner_Rato.png" width="1050" height="350" alt="Banner Rato"/> 
 
 <h1 align="center">Bem vindo ao Mach</h1>
 
@@ -30,7 +30,9 @@ Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso 
 - Peço ajuda para manter e atualizar o projeto de modo a continuar esse trabalho de causar risos;
 - Precisa-se de empacotamento para tornar o software indetectável para firewalls;
 - O programa utiliza um outro arquivo .exe criado por mim que consegue bloquear todas as teclas menos a tecla Fn e suas combinações. Necessita a implementação para bloquear a tecla Fn também;
-- Peço que atualizem o diretório Static com mais áudios estourados e engraçados e com mais imagens suspeitas para a vergonha alheia da vítima.
+- Peço que atualizem o diretório Static com mais áudios estourados e engraçados e com mais imagens suspeitas para a vergonha alheia da vítima;
+- Outra atualização útil: portar o projeto para Linux. Seria interessante que funcionasse em ambos os sistemas operacionais;
+- Se julgar que meu projeto é interessante, compartilhe e realiza pegadinhas com seus amigos. 
 
 <br>
 
