@@ -23,7 +23,7 @@ No exemplo acima, foi utilizando o executável disfarçado de Edge mas pode-se e
 
 Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso apenas instale o vírus, na primeira execução será aberto um aviso que trata-se de um software malicioso. Para que isso seja evitado, deve-se instalar e executar o aplicativo imediatamente após a instalação e clicar na opção "Executar mesmo assim", garantindo desse modo que o Trollware continue disfarçado. 
 
-![demo](https://github.com/Ascotbe/Image/blob/master/Medusa/web_demo.gif?raw=true)
+<br>
 
 ### :four_leaf_clover: Discussion
 
@@ -32,6 +32,7 @@ Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso 
 - O programa utiliza um outro arquivo .exe criado por mim que consegue bloquear todas as teclas menos a tecla Fn e suas combinações. Necessita a implementação para bloquear a tecla Fn também;
 - Peço que atualizem o diretório Static com mais áudios estourados e engraçados e com mais imagens suspeitas para a vergonha alheia da vítima.
 
+<br>
 
 ### :warning: Atenção
 
@@ -44,6 +45,8 @@ Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso 
 
 ![commit](https://opencollective.com/Medusa/contributors.svg?width=890&button=false) -->
 
-### :checkered_flag:Timeline
+<br>
 
-![Alt](https://repobeats.axiom.co/api/embed/dde3107e3339aa21a9b244749737e8a39a650ab9.svg "Repobeats analytics image")
+### :checkered_flag: Timeline
+
+![Alt](https://repobeats.axiom.co/api/embed/1aa6cd6fc28da2e33aa34f6070cb6da352ab8039.svg "Imagem de análise do Repobeats")
