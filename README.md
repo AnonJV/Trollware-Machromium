@@ -23,28 +23,30 @@ No exemplo acima, foi utilizando o executável disfarçado de Edge mas pode-se e
 
 Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso apenas instale o vírus, na primeira execução será aberto um aviso que trata-se de um software malicioso. Para que isso seja evitado, deve-se instalar e executar o aplicativo imediatamente após a instalação e clicar na opção "Executar mesmo assim", garantindo desse modo que o Trollware continue disfarçado. 
 
-![demo](https://github.com/Ascotbe/Image/blob/master/Medusa/web_demo.gif?raw=true)
+<br>
 
 ### :four_leaf_clover: Discussion
 
 - Peço ajuda para manter e atualizar o projeto de modo a continuar esse trabalho de causar risos;
 - Precisa-se de empacotamento para tornar o software indetectável para firewalls;
 - O programa utiliza um outro arquivo .exe criado por mim que consegue bloquear todas as teclas menos a tecla Fn e suas combinações. Necessita a implementação para bloquear a tecla Fn também;
-- Peço que atualize o diretório Static com mais áudios estourados e engraçados e com mais imagens suspeitas para a vergonha alheia da vítima.
+- Peço que atualizem o diretório Static com mais áudios estourados e engraçados e com mais imagens suspeitas para a vergonha alheia da vítima.
 
+<br>
 
 ### :warning: Atenção
 
 - Qualquer alteração ou uso deve ser exaltado para mim, o criador, de acordo com o [protocolo](https://github.com/AnonJV/Trollware-Machromium/LICENSE) e seguir algumas outras regras;
-- Não me responsabilizo nem me compactuo com 
+- Não me responsabilizo nem compactuo com o uso indevido que possa prejudicar uma pessoa ultrapassando o limite do humor;
+- As alterações devem ser publicadas em uma nova branch para que o projeto possa se desenvolver e ganhar cada vez mais forma;
+- Todos os usuários que auxiliarem na construção desse projeto, terá seu nome acrescentado na aba de contribuidores.
 
+<!-- ### :palm_tree:Contributors
 
+![commit](https://opencollective.com/Medusa/contributors.svg?width=890&button=false) -->
 
+<br>
 
-### :palm_tree:Contributors
+### :checkered_flag: Timeline
 
-![commit](https://opencollective.com/Medusa/contributors.svg?width=890&button=false)
-
-### :checkered_flag:Timeline
-
-![Alt](https://repobeats.axiom.co/api/embed/dde3107e3339aa21a9b244749737e8a39a650ab9.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/1aa6cd6fc28da2e33aa34f6070cb6da352ab8039.svg "Imagem de análise do Repobeats")
