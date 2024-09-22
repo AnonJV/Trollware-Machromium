@@ -51,4 +51,4 @@ Existe um problema que não tive tempo de resolver: o firewall do Windows. Caso 
 
 ### :checkered_flag: Timeline
 
-![Alt](https://repobeats.axiom.co/api/embed/1aa6cd6fc28da2e33aa34f6070cb6da352ab8039.svg "Imagem de análise do Repobeats")
+![Alt](https://repobeats.axiom.co/api/embed/0b09041b11d83ccac209e7a34b0487c74ebe5c53.svg "Repobeats analytics image")
